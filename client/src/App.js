@@ -4,7 +4,7 @@ import "./App.css";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 import LocalMallIcon from "@mui/icons-material/LocalMall";
 import AccountCircleIcon from "@mui/icons-material/AccountCircle";
-
+import Apps from "./Apps"
 import Badge from "@mui/material/Badge";
 import ModalComponent from "./ModalComponent"; // assuming you have a ModalComponent
 
@@ -150,8 +150,11 @@ function App() {
 
   return (
     <div className="App">
+
       <header className="App-header">
+
         <div className="containers">
+
           <div className="header">
             <div className="header-inner">
               <div className="banner">
@@ -159,7 +162,13 @@ function App() {
                   src={
                     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOggcBEPSWD9wFXUwng88Cv4j96Aoa8iwy_GvmnB6UK80p8Kpah8-grGD_uxtcCgDjRHA&usqp=CAU"
                   }
+
+                  alt="banner"
+                        
+                        
+             
                 />
+
               </div>
               <div className="title">
                 <center>
@@ -180,7 +189,7 @@ function App() {
               </div>
             </div>
           </div>
-          <nav className="navigation">
+          {/* <nav className="navigation">
             <ul className={`nav_menu ${isMenuOpen ? "active" : ""}`}>
              
               <li className="nav_list nav_list_menu">
@@ -873,7 +882,8 @@ function App() {
                 </a>
               </li>
             </ul>
-          </nav>
+          </nav> */}
+          <Apps />
         </div>
         <div className="filters">
           <button
