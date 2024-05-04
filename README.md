@@ -1,9 +1,7 @@
-Screen:
-![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/15cbdf63-c0c5-4db5-9371-7576d796c021)
+![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/8881297a-f348-4f2e-a0cb-60761fda9fba)
 
-Navbar:
-![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/23b0987c-6515-419d-ad03-bba60a07199f)
+![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/03b9c9d8-c52a-4ed7-bdea-508c71b43394)
 
-Zoom effect :
-![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/af598229-ea41-4db6-9cee-b7d590254360)
+![image](https://github.com/Sattwikmaiti/DIRUMS/assets/90182231/4852fb9b-d5a1-48e4-a8cf-2c67e2d81525)
+
 
